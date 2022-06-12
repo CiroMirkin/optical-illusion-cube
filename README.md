@@ -8,4 +8,4 @@ Esta aplicación recrea la conocida ilusión óptica del cubo animándola y haci
 * Cambiar el color del fondo.
 
 ---
-[My github](https://github.com/vacio-informatico/) | [Cubos - ilusión óptica ](https://vacio-informatico.github.io/optical-illusion-cube/)
+[My github](https://github.com/CiroMirkin/) | [Cubos - ilusión óptica ](https://ciromirkin.github.io/optical-illusion-cube/)
